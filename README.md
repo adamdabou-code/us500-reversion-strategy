@@ -2,7 +2,7 @@
 
 Klikni na tlačítko níže a otevři notebook v Binderu:
 
-![Launch in Binder](https://mybinder.org/v2/gh/YOURUSERNAME/us500-reversion-strategy/main)
+![Launch in Binder](https://mybinder.org/v2/gh/adamdabou/us500-reversion-strategy/main)
 
 ---
 
